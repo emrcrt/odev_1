@@ -1,0 +1,17 @@
+:root {
+
+--font-pagename-fontfamily: 'General Sans', sans-serif;
+--font-pagename-size: 180px; 
+
+--mainmenu-fontfamily: 'General Sans', sans-serif;
+--mainmenu-color: black;
+
+
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
